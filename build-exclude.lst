@@ -1,0 +1,4 @@
+*.git*
+build
+build-exclude.lst
+README.md

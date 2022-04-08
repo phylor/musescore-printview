@@ -1,0 +1,3 @@
+#!/bin/bash
+
+zip -r -FS ../musescore-printview.zip * -x@build-exclude.lst
